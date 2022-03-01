@@ -1,5 +1,7 @@
 ### Hellow there 👋
 
+I'm a fullstack developer, working on futuristic projects that will hopefully change the world!
+
 <a href="https://app.daily.dev/taneron"><img src="https://api.daily.dev/devcards/a932cd7b5bd5450791dad2a2896ccd73.png?r=x58" width="400" alt="Tan's Dev Card"/></a>
 
 <!--
