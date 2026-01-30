@@ -2,8 +2,6 @@
 
 I'm a fullstack developer, and I have worked on good ol' websites, complicated gdpr compliant SaaS projects, custom wordpress themes and plugins, some rust cli projects, futuristic vertical farming systems, some projects on ESP32 and finally on RAG pipelines and AI chatbots. Currenlty vibing my out of the vibe coding mess.
 
-<a href="https://app.daily.dev/taneron"><img src="https://api.daily.dev/devcards/a932cd7b5bd5450791dad2a2896ccd73.png" width="400" alt="Tan's Dev Card"/></a>
-
 <!--
 **taneron/taneron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
